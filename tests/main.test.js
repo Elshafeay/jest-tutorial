@@ -1,4 +1,4 @@
-const { calcAvg, fullName, companyEmail } = require('../src/index');
+const { calcAvg, fullName } = require('../src/index');
 
 test('Should return fullname with a space between firstname and lastname', () => {
 
